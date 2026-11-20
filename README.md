@@ -12,11 +12,11 @@ Hi. I'm Ksenia — a developer who builds websites and web applications tailored
 
 ## Что я делаю / What I do
 
-- Лендинги и промо-страницы
-- Многостраничные сайты до 5 страниц
-- Веб-приложения и личные кабинеты
-- Трекеры задач и внутренние инструменты
-- Чат-боты и интеграции
+- Лендинги и промо-страницы / Landing pages and promo sites
+- Многостраничные сайты до 5 страниц / Multi-page websites up to 5 pages
+- Веб-приложения и личные кабинеты / Web applications and dashboards
+- Трекеры задач и внутренние инструменты / Task trackers and internal tools
+- Чат-боты и интеграции / Chatbots and integrations
 
 ---
 
